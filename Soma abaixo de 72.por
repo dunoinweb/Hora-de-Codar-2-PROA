@@ -25,7 +25,7 @@ programa
             escreva(numeros[i], " ")
             i = i + 1
         }
-        escreva("\nSoma dos valores abaixo de 72: ", soma)0
+        escreva("\nSoma dos valores abaixo de 72: ", soma)
     }
 }
 /* $$$ Portugol Studio $$$ 
